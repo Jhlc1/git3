@@ -1,2 +1,3 @@
 # gitpractica
 
+- Leonardo Solis
